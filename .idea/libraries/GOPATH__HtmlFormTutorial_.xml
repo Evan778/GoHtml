@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;HtmlFormTutorial&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../mymath" />
+      <root url="file://$PROJECT_DIR$/../mathapp" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../mymath" />
+      <root url="file://$PROJECT_DIR$/../mathapp" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
